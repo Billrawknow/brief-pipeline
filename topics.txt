@@ -1,0 +1,4 @@
+# One topic per line. Lines starting with # are ignored.
+M-Pesa payment trends among Nairobi SMEs
+Agricultural financing options for smallholder farmers in Rift Valley
+Competitor analysis: Jumia vs Kilimall e-commerce Kenya
